@@ -1,0 +1,57 @@
+body {
+    background: #EBEBEB;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #7d7d7d;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+div {
+  display: block;
+  background-color: blue;
+  border: 5px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+
+.container {
+    width: 560px;
+    margin: 30px auto;
+}
+
+.card {
+  background-color: red;
+  padding:15px;
+  color: snow;
+  font-family: Garamond;
+  width: 500px;
+}
+
+#test {
+  border: 5px solid white;
+  margin: 0 auto;
+}
+
+#skills {
+  background-color: rgba(275, 74, 29, 0.4);
+}
+
+.img-circle {
+  border-radius: 6%;
+}
+
+#table {
+  color: black;
+  text-align: center;
+}
+
+#movies {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+#form {
+
+}
